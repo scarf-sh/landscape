@@ -4939,6 +4939,15 @@ landscape:
             logo: rookout.svg
             crunchbase: https://www.crunchbase.com/organization/rookout
           - item:
+            name: Scarf
+            description: >-
+              Scarf provides advanced usage analytics for open-source projects
+              so they can understand how their code is being used and connect
+              with their commercial end-users
+            homepage_url: https://scarf.sh/
+            logo: scarf.svg
+            crunchbase: https://www.crunchbase.com/organization/scarf-5901
+          - item:
             name: Sensu
             homepage_url: https://sensu.io/
             repo_url: https://github.com/sensu/sensu-go
